@@ -9,6 +9,8 @@ There are some changes to the code since the last closed-source release:
 - Icons have been replaced with ones from the Fugue Icons set.
 - Version has been bumped to 7.0.x.x to indicate the open-source release.
 
+[Download latest release](https://github.com/OdinVosemTriX3/SAM/releases).
+
 ## Instruction
 
 How to unlock all achievements
@@ -19,6 +21,7 @@ How to unlock all achievements
   - Click "Invert all achievements"
   - Click "Unlock all achievements"
   - Click "Commit Changes"
+
   Ready!
 
 ## Attribution

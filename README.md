@@ -9,6 +9,18 @@ There are some changes to the code since the last closed-source release:
 - Icons have been replaced with ones from the Fugue Icons set.
 - Version has been bumped to 7.0.x.x to indicate the open-source release.
 
+## Instruction
+
+How to unlock all achievements
+  - Run Steam
+  - Login in your account
+  - Run SAM.Pick.exe
+  - Click on the game you want to select
+  - Click "Invert all achievements"
+  - Click "Unlock all achievements"
+  - Click "Commit Changes"
+  Ready!
+
 ## Attribution
 
 Most (if not all) icons are from the [Fugue Icons](http://p.yusukekamiyamane.com/) set.
